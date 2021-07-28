@@ -1,4 +1,4 @@
-# JODA course project
+# Introduction to Data Science course project
 This project has been implemented as a single Jupyter notebook.
 This project utilizes data from [Inside Airbnb](http://insideairbnb.com/). The purpose of this project is to analyze and visualize data from Airbnb listings. The goal is to analyze the correlation between different variables from the data, and to find out which variables have the most effect on user reviews. The accuracy of the results are attempted to be analyzed by machine learning techniques.
 
